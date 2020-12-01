@@ -1,0 +1,5 @@
+<!DOCTYPE html>
+
+<html>
+<h1> This document is of type HTML</h1>
+</html>
